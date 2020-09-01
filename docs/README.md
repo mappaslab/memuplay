@@ -2,7 +2,7 @@
 [https://github.com/mappaslab/memuplay/releases/download/7.2.2/MEmu-Setup-7.2.2-hafd7db4cc.rar](https://github.com/mappaslab/memuplay/releases/download/7.2.2/MEmu-Setup-7.2.2-hafd7db4cc.rar)
 
 # 7.2.1
-[]()
+[https://github.com/mappaslab/memuplay/releases/download/7.2.1/MEmu-Setup-7.2.1-ha3408877b.rar](https://github.com/mappaslab/memuplay/releases/download/7.2.1/MEmu-Setup-7.2.1-ha3408877b.rar)
 
 # 6.0.8.1
 []()
